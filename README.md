@@ -1,6 +1,8 @@
+Back to FEDev main <<<< https://github.com/dr-matt-smith/2026-FDEev-Front-End-Dev-start-here
+
+
 # FEDev---labs
-
-
+Notes / resources for each weeks labs can be found on this page
 
 ## Lab 1 & 2
 1. recap HTML/CSS/JS topic
