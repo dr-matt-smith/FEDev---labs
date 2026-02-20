@@ -42,5 +42,5 @@ Some online resource to learn more about Git
  
 ## Lab 4
 - **Exercise 4-1**: Have a go at copying embed code and using some Google fonts in a website
-  - [https://github.com/education/students](https://github.com/dr-matt-smith/FEDev-Google-Fonts)
+  - https://github.com/dr-matt-smith/FEDev-Google-Fonts
 
