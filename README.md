@@ -40,4 +40,7 @@ Some online resource to learn more about Git
 - Software carpentry
   - https://swcarpentry.github.io/git-novice/01-basics.html
  
-  - 
+## Lab 4
+- **Exercise 4-1**: Have a go at copying embed code and using some Google fonts in a website
+  - [https://github.com/education/students](https://github.com/dr-matt-smith/FEDev-Google-Fonts)
+
