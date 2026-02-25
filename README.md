@@ -55,7 +55,11 @@ Some online resource to learn more about Git
   - https://github.com/dr-matt-smith/FEDev-Google-Fonts
 
 ## Lab 5
-- **Exercise 5-1**: Explore Svelte component customisation with 'props' (properies)
+(see university Brightspace - exercises based on Week 4 Svelte lecture...)
+
+
+## Lab 6
+- **Exercise 6-1**: Explore Svelte component customisation with 'props' (properies)
   - https://github.com/dr-matt-smith/FEDev-Svelte-component-properties
 
 
