@@ -9,6 +9,9 @@ Notes / resources for each weeks labs can be found on this page
 Difference between `var`, `let` and `const`:
 - https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 
+TailWindCSS and JavaScript free tutorials from Scrimba:
+- https://v2.scrimba.com/learn-tailwind-css-c010
+- https://v2.scrimba.com/learn-javascript-c0v
 
 
 ## Lab 1 & 2
