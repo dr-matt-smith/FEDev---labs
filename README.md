@@ -51,3 +51,8 @@ Some online resource to learn more about Git
 - **Exercise 4-1**: Have a go at copying embed code and using some Google fonts in a website
   - https://github.com/dr-matt-smith/FEDev-Google-Fonts
 
+## Lab 5
+- **Exercise 5-1**: Explore Svelte component customisation with 'props' (properies)
+  - https://github.com/dr-matt-smith/FEDev-Svelte-component-properties
+
+
