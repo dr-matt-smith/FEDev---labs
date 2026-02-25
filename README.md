@@ -4,6 +4,13 @@ Back to FEDev main <<<< https://github.com/dr-matt-smith/2026-FDEev-Front-End-De
 # FEDev---labs
 Notes / resources for each weeks labs can be found on this page
 
+
+## Some useful links
+Difference between `var`, `let` and `const`:
+- https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+
+
 ## Lab 1 & 2
 1. recap HTML/CSS/JS topic
 
