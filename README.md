@@ -61,5 +61,7 @@ Some online resource to learn more about Git
 ## Lab 6
 - **Exercise 6-1**: Explore Svelte component customisation with 'props' (properies)
   - https://github.com/dr-matt-smith/FEDev-Svelte-component-properties
+- **Exercise 6-2**: Explore use of JSON-driven website & IDs in URLs to retrieve individual objects
+  - https://github.com/dr-matt-smith/FEDev-JSON-data-driven-website
 
 
