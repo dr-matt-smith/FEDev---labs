@@ -63,5 +63,9 @@ Some online resource to learn more about Git
   - https://github.com/dr-matt-smith/FEDev-Svelte-component-properties
 - **Exercise 6-2**: Explore use of JSON-driven website & IDs in URLs to retrieve individual objects
   - https://github.com/dr-matt-smith/FEDev-JSON-data-driven-website-step-1
+- **Exercise 6-3**: Create a simple Node Express JSON data API server
+  - this can be used for step 8 of thje JSON modules data-driven website
+  - https://github.com/dr-matt-smith/FEDDev---express-JSON-data-API-server
+    
 
 
