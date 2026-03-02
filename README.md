@@ -66,6 +66,11 @@ Some online resource to learn more about Git
 - **Exercise 6-3**: Create a simple Node Express JSON data API server
   - this can be used for step 8 of thje JSON modules data-driven website
   - https://github.com/dr-matt-smith/FEDDev---express-JSON-data-API-server
+
+Also, complete work for Practical 1, and start work on the GenAI Practical 2
+- see the assessments on Brightspace, and resources on GitHub:
+  - https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs
+ 
     
 
 
