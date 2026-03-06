@@ -79,7 +79,8 @@ Also, complete work for Practical 1, and start work on the GenAI Practical 2
 - simple form
   - https://github.com/dr-matt-smith/FEDev-simple-form
  
-- 
+- simple login form
+  - https://github.com/dr-matt-smith/FEDev-simple-login-form-v2-
  
   
 
