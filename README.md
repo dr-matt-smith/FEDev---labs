@@ -71,6 +71,11 @@ Also, complete work for Practical 1, and start work on the GenAI Practical 2
 - see the assessments on Brightspace, and resources on GitHub:
   - https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs
  
-    
+## Lab 7
+
+- cookies exmaple
+  - https://github.com/dr-matt-smith/FEDev-topic-Cookies
+ 
+  
 
 
