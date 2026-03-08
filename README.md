@@ -73,7 +73,7 @@ Also, complete work for Practical 1, and start work on the GenAI Practical 2
  
 ## Lab 7
 
-- cookies exmaple
+- cookies example
   - https://github.com/dr-matt-smith/FEDev-topic-Cookies
  
 - simple form
