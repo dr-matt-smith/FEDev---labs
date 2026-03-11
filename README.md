@@ -76,7 +76,7 @@ Also, complete work for Practical 1, and start work on the GenAI Practical 2
 - cookies example
   - https://github.com/dr-matt-smith/FEDev-topic-Cookies
  
-- simple form
+- simple form (storing username with cookies)
   - https://github.com/dr-matt-smith/FEDev-simple-form
  
 - simple login form
