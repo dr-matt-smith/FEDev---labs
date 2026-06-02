@@ -17,9 +17,11 @@ TailWindCSS and JavaScript free tutorials from Scrimba:
 ## Lab 1 & 2
 1. recap HTML/CSS/JS topic
 
-2. install Node.js on your own computers
+   try Free Code Camp: https://www.freecodecamp.org/ 
 
-3. have a go at the 2 step-by-step projects on Github (instructions in readme):
+3. install Node.js on your own computers
+
+4. have a go at the 2 step-by-step projects on Github (instructions in readme):
 - **Exercise 1-1**: a first Node (Express) web server project from scratch
   - https://github.com/dr-matt-smith/2026-FEDev-simple-node-web-server-project
 - **Exercise 1-2**: a first SvelteKit project from scratch
